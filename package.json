@@ -6,7 +6,6 @@
   "scripts": {
     "build": "webpack -p",
     "dev": "webpack-dev-server -d"
-
   },
   "keywords": [],
   "author": "",

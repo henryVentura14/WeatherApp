@@ -11,7 +11,6 @@ npm install
 ## Usage
 
 ```bash or fish
-npm run start
 npm run dev
 ```
 
@@ -23,6 +22,6 @@ Node +6
 
 ## Captures
 
-
+![GitHub Logo](./screen.png)
 
 
